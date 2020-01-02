@@ -134,10 +134,19 @@ app.layout = html.Div(children=[
     sort_action="native",
     sort_mode="multi",
     style_data_conditional=[
-        {
-            'if': {'row_index': 'odd'},
-            'backgroundColor': 'rgb(248, 248, 248)'
-        }
+#         {
+#             'if': {'row_index': 'odd'},
+#             'backgroundColor': 'rgb(248, 248, 248)'
+            
+#         },
+         {
+            'if': {'column_id': str(x),
+                   'filter_query': '{{{}}} < 0'.format(x)
+                  },
+            'color': 'red'
+            
+        } for x in ['mth_returns','qtr_returns','hly_returns','yly_returns']
+        
     ],
     style_header={
         'backgroundColor': 'rgb(230, 230, 230)',
