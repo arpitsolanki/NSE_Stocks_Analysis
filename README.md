@@ -27,6 +27,9 @@ Plotly Python - Used to create the interactive plots
 ## Screenshots
 The following are screenshots for the app in this repo:
 
-![alt text](https://github.com/NSE_Stocks_Analysis/screenshots/Snip1.PNG "Shot 1")
-![alt text](https://github.com/NSE_Stocks_Analysis/screenshots/snip2.PNG "Shot 2")
-![alt text](https://github.com/NSE_Stocks_Analysis/screenshots/snip3.PNG "Shot 3")
+![Alt text](screenshots/Snip1.png)
+
+![Alt text](screenshots/snip2.png)
+
+![Alt text](screenshots/snip3.png)
+
