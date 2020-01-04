@@ -27,9 +27,9 @@ Plotly Python - Used to create the interactive plots
 ## Screenshots
 The following are screenshots for the app in this repo:
 
-![Alt text](screenshots/Snip1.png)
+![Alt text](screenshots/Snip1.PNG)
 
-![Alt text](screenshots/snip2.png)
+![Alt text](screenshots/snip2.PNG)
 
-![Alt text](screenshots/snip3.png)
+![Alt text](screenshots/snip3.PNG)
 
